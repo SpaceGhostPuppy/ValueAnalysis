@@ -1,0 +1,27 @@
+{
+  "sector_metrics": {
+    "average_ratios": {
+      "pe_ratio": 22.6,
+      "pb_ratio": 4.2,
+      "fcf_yield": 6.8,
+      "debt_to_ebitda": 1.4
+    },
+    "companies": [
+      {
+        "ticker": "V",
+        "metrics": {
+          "market_cap": "492B",
+          "fcf_yield": 4.2,
+          "roic": 28.6,
+          "debt_to_ebitda": 0.8,
+          "ichimoku_levels": {
+            "tenkan": 252.40,
+            "kijun": 248.60,
+            "senkou_a": 244.80,
+            "senkou_b": 240.20
+          }
+        }
+      }
+    ]
+  }
+}

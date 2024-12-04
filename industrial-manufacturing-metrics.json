@@ -1,0 +1,27 @@
+{
+  "sector_metrics": {
+    "average_ratios": {
+      "pe_ratio": 19.8,
+      "pb_ratio": 3.2,
+      "fcf_yield": 5.9,
+      "debt_to_ebitda": 1.6
+    },
+    "companies": [
+      {
+        "ticker": "ROK",
+        "metrics": {
+          "market_cap": "32B",
+          "fcf_yield": 4.8,
+          "roic": 16.8,
+          "debt_to_ebitda": 1.2,
+          "ichimoku_levels": {
+            "tenkan": 278.40,
+            "kijun": 272.60,
+            "senkou_a": 268.80,
+            "senkou_b": 264.40
+          }
+        }
+      }
+    ]
+  }
+}

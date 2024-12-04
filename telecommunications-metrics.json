@@ -1,0 +1,27 @@
+{
+  "sector_metrics": {
+    "average_ratios": {
+      "pe_ratio": 18.6,
+      "pb_ratio": 2.8,
+      "fcf_yield": 7.8,
+      "debt_to_ebitda": 2.6
+    },
+    "companies": [
+      {
+        "ticker": "AMT",
+        "metrics": {
+          "market_cap": "94B",
+          "fcf_yield": 6.2,
+          "roic": 15.4,
+          "debt_to_ebitda": 2.8,
+          "ichimoku_levels": {
+            "tenkan": 202.40,
+            "kijun": 198.60,
+            "senkou_a": 194.80,
+            "senkou_b": 190.40
+          }
+        }
+      }
+    ]
+  }
+}

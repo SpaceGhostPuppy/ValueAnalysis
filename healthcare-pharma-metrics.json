@@ -1,0 +1,27 @@
+{
+  "sector_metrics": {
+    "average_ratios": {
+      "pe_ratio": 18.4,
+      "pb_ratio": 2.8,
+      "fcf_yield": 5.2,
+      "debt_to_ebitda": 1.5
+    },
+    "companies": [
+      {
+        "ticker": "MCK",
+        "metrics": {
+          "market_cap": "64B",
+          "fcf_yield": 7.4,
+          "roic": 21.2,
+          "debt_to_ebitda": 1.1,
+          "ichimoku_levels": {
+            "tenkan": 462.80,
+            "kijun": 458.40,
+            "senkou_a": 452.60,
+            "senkou_b": 448.20
+          }
+        }
+      }
+    ]
+  }
+}

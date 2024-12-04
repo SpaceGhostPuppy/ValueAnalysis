@@ -1,0 +1,27 @@
+{
+  "sector_metrics": {
+    "average_ratios": {
+      "pe_ratio": 16.8,
+      "pb_ratio": 1.8,
+      "fcf_yield": 7.4,
+      "debt_to_ebitda": 2.5
+    },
+    "companies": [
+      {
+        "ticker": "NEE",
+        "metrics": {
+          "market_cap": "124B",
+          "fcf_yield": 5.8,
+          "roic": 14.2,
+          "debt_to_ebitda": 2.4,
+          "ichimoku_levels": {
+            "tenkan": 62.40,
+            "kijun": 60.80,
+            "senkou_a": 58.60,
+            "senkou_b": 56.40
+          }
+        }
+      }
+    ]
+  }
+}
