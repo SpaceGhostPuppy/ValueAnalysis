@@ -1,0 +1,27 @@
+{
+  "sector_metrics": {
+    "average_ratios": {
+      "pe_ratio": 16.4,
+      "pb_ratio": 2.2,
+      "fcf_yield": 6.9,
+      "debt_to_ebitda": 1.7
+    },
+    "companies": [
+      {
+        "ticker": "LIN",
+        "metrics": {
+          "market_cap": "208B",
+          "fcf_yield": 4.2,
+          "roic": 16.8,
+          "debt_to_ebitda": 1.4,
+          "ichimoku_levels": {
+            "tenkan": 412.40,
+            "kijun": 408.60,
+            "senkou_a": 404.20,
+            "senkou_b": 400.40
+          }
+        }
+      }
+    ]
+  }
+}

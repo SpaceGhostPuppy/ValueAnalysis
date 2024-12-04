@@ -1,0 +1,27 @@
+{
+  "sector_metrics": {
+    "average_ratios": {
+      "pe_ratio": 22.4,
+      "pb_ratio": 3.8,
+      "fcf_yield": 6.8,
+      "debt_to_ebitda": 1.4
+    },
+    "companies": [
+      {
+        "ticker": "CSCO",
+        "metrics": {
+          "market_cap": "215B",
+          "fcf_yield": 8.2,
+          "roic": 19.8,
+          "debt_to_ebitda": 0.9,
+          "ichimoku_levels": {
+            "tenkan": 52.40,
+            "kijun": 51.80,
+            "senkou_a": 50.40,
+            "senkou_b": 48.60
+          }
+        }
+      }
+    ]
+  }
+}

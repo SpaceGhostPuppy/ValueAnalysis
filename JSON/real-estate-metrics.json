@@ -1,0 +1,27 @@
+{
+  "sector_metrics": {
+    "average_ratios": {
+      "p_ffo_ratio": 16.8,
+      "pb_ratio": 1.6,
+      "ffo_yield": 6.4,
+      "debt_to_ebitda": 2.6
+    },
+    "companies": [
+      {
+        "ticker": "PLD",
+        "metrics": {
+          "market_cap": "112B",
+          "ffo_yield": 5.8,
+          "roic": 12.4,
+          "debt_to_ebitda": 2.2,
+          "ichimoku_levels": {
+            "tenkan": 122.40,
+            "kijun": 118.60,
+            "senkou_a": 114.80,
+            "senkou_b": 110.40
+          }
+        }
+      }
+    ]
+  }
+}
